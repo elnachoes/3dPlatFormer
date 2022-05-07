@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3dPlatFormer", "3dPlatFormer.csproj", "{45D1271D-F802-4D27-93FE-269075C7AD51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		ExportDebug|Any CPU = ExportDebug|Any CPU
+		ExportRelease|Any CPU = ExportRelease|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45D1271D-F802-4D27-93FE-269075C7AD51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45D1271D-F802-4D27-93FE-269075C7AD51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45D1271D-F802-4D27-93FE-269075C7AD51}.ExportDebug|Any CPU.ActiveCfg = ExportDebug|Any CPU
+		{45D1271D-F802-4D27-93FE-269075C7AD51}.ExportDebug|Any CPU.Build.0 = ExportDebug|Any CPU
+		{45D1271D-F802-4D27-93FE-269075C7AD51}.ExportRelease|Any CPU.ActiveCfg = ExportRelease|Any CPU
+		{45D1271D-F802-4D27-93FE-269075C7AD51}.ExportRelease|Any CPU.Build.0 = ExportRelease|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07E130B6-6543-43A9-A507-7D3E275EFA90}
+	EndGlobalSection
+EndGlobal

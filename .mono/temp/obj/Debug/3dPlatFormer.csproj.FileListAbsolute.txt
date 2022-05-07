@@ -1,0 +1,11 @@
+C:\Users\corbi\Desktop\programming\GodotStuffs\3dPlatFormer\.mono\temp\bin\Debug\3dPlatFormer.dll
+C:\Users\corbi\Desktop\programming\GodotStuffs\3dPlatFormer\.mono\temp\bin\Debug\3dPlatFormer.pdb
+C:\Users\corbi\Desktop\programming\GodotStuffs\3dPlatFormer\.mono\temp\obj\Debug\3dPlatFormer.AssemblyInfoInputs.cache
+C:\Users\corbi\Desktop\programming\GodotStuffs\3dPlatFormer\.mono\temp\obj\Debug\3dPlatFormer.AssemblyInfo.cs
+C:\Users\corbi\Desktop\programming\GodotStuffs\3dPlatFormer\.mono\temp\obj\Debug\3dPlatFormer.csproj.CoreCompileInputs.cache
+C:\Users\corbi\Desktop\programming\GodotStuffs\3dPlatFormer\.mono\temp\obj\Debug\3dPlatFormer.dll
+C:\Users\corbi\Desktop\programming\GodotStuffs\3dPlatFormer\.mono\temp\obj\Debug\3dPlatFormer.pdb
+C:\Users\corbi\Desktop\programming\GodotStuffs\3dPlatFormer\.mono\temp\obj\Debug\dPlatFormer.Properties.Resources.resources
+C:\Users\corbi\Desktop\programming\GodotStuffs\3dPlatFormer\.mono\temp\obj\Debug\3dPlatFormer.csproj.GenerateResource.cache
+C:\Users\corbi\Desktop\programming\GodotStuffs\3dPlatFormer\.mono\temp\obj\Debug\3dPlatFormer.csproj.AssemblyReference.cache
+C:\Users\corbi\Desktop\programming\GodotStuffs\3dPlatFormer\.mono\temp\obj\Debug\3dPlatFormer.GeneratedMSBuildEditorConfig.editorconfig

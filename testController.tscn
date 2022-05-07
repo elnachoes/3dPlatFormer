@@ -1,0 +1,32 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://Controller.tscn" type="PackedScene" id=1]
+[ext_resource path="res://GrassGround.tscn" type="PackedScene" id=2]
+
+[node name="Node" type="Node"]
+
+[node name="Controller" parent="." instance=ExtResource( 1 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 17, 20, 16 )
+
+[node name="GrassGround" parent="." instance=ExtResource( 2 )]
+
+[node name="GrassGround6" parent="." instance=ExtResource( 2 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -40, 6, 0 )
+
+[node name="GrassGround7" parent="." instance=ExtResource( 2 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -40, 6, 21 )
+
+[node name="GrassGround8" parent="." instance=ExtResource( 2 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -61, 6, 21 )
+
+[node name="GrassGround2" parent="." instance=ExtResource( 2 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 21 )
+
+[node name="GrassGround3" parent="." instance=ExtResource( 2 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 21, 0, 21 )
+
+[node name="GrassGround4" parent="." instance=ExtResource( 2 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 21, 0, 0 )
+
+[node name="GrassGround5" parent="." instance=ExtResource( 2 )]
+transform = Transform( 0.965926, 0.258819, 0, -0.258819, 0.965926, 0, 0, 0, 1, -20, 3, 0 )
